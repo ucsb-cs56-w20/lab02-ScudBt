@@ -1,6 +1,7 @@
 lab02-ScudBt
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-ScudBt/
+
 Repo: https://github.com/ucsb-cs56-w20/lab02-ScudBt
 
 # About this repo
