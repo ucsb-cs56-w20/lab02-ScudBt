@@ -1,8 +1,6 @@
 lab02-ScudBt
 
-* TODO: Correct the links to the javadoc and repo below, then delete this TODO
-
-Javadoc: https://ucsb-cs56-w20.github.io/STARTER-lab02
+Javadoc: https://ucsb-cs56-w20.github.io/lab02-ScudBt/
 Repo: https://github.com/ucsb-cs56-w20/lab02-ScudBt
 
 # About this repo
