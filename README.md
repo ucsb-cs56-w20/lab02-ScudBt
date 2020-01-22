@@ -1,4 +1,4 @@
-Huiyu Zhang(ScudBt)
+lab02: Huiyu Zhang(ScudBt)
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-ScudBt/
 
